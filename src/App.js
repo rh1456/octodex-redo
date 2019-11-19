@@ -36,37 +36,37 @@ const App = () => {
       </nav>
       <main>
         <Format
-          imageUrl={steroidToCat}
+          image={steroidToCat}
           imgAlt="steroid"
           catNumber="#130"
           catID="Catstello"
         />
         <Format
-          imageUrl={barackToCat}
+          image={barackToCat}
           imgAlt="barack"
           catNumber="#57"
           catID="Baracktocat"
         />
         <Format
-          imageUrl={castello}
+          image={castello}
           imgAlt="cat"
           catNumber="#130"
           catID="catstello"
         />
         <Format
-          imageUrl={labToCat}
+          image={labToCat}
           imgAlt="labCat"
           catNumber="#106"
           catID="Labtocat"
         />
         <Format
-          imageUrl={jetPackToCat}
+          image={jetPackToCat}
           imgAlt="jetcat"
           catNumber="#119"
           catID="Jetpacktocat"
         />
         <Format
-          imageUrl={octotron}
+          image={octotron}
           imgAlt="octocat"
           catNumber="#58"
           catID="Octotron"

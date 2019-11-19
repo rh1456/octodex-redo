@@ -4,7 +4,7 @@ const Format = props => {
   return (
     <li>
       <div>
-        <img src={props.imageURL} alt={props.imageAlt} />
+        <img src={props.image} alt={props.imageAlt} />
         {/* <div> */}
         <p>
           {props.catNumber}

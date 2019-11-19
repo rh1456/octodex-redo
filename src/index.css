@@ -35,7 +35,7 @@ body {
 li {
   list-style: none;
   display: flex;
-  display: row;
+  justify-content: row;
   padding: 3rem;
 }
 .leftMenu li {
