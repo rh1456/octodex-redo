@@ -1,13 +1,12 @@
-import React, { Component } from 'react'
+import React from 'react'
+import Format from './components/Format'
 import steroidToCat from './images/steroidtocat.png'
 import barackToCat from './images/baracktocat.jpg'
 import castello from './images/catstello.png'
 import labToCat from './images/labtocat.png'
 import jetPackToCat from './images/jetpacktocat.png'
 import octotron from './images/octotron.jpg'
-
-import Format from './components/Format'
-
+console.log(labToCat)
 const App = () => {
   return (
     <>

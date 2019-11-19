@@ -36,6 +36,7 @@ li {
   list-style: none;
   display: flex;
   display: row;
+  padding: 3rem;
 }
 .leftMenu li {
   padding: 0rem 1rem;
